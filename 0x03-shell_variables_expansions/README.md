@@ -1,0 +1,1 @@
+My Shell variables script
